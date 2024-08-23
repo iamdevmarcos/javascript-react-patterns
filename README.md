@@ -1,5 +1,3 @@
-<img src="https://javascriptpatterns.vercel.app/js.webp" alt="JS Logo" />
-
 ## Related to the @FrontendMasters JavaScript and React patterns
 
 ### JavaScript Patterns
@@ -21,3 +19,5 @@
 - Hook Pattern
 - Provider Pattern
 - Render Pattern
+
+<img src="https://javascriptpatterns.vercel.app/js.webp" alt="JS Logo" />
